@@ -1,6 +1,7 @@
 # sell
 
-> A Vue.js project
+> vue2.0仿饿了么
+用到的技术：vue2.0，vue-router
 
 ## Build Setup
 
